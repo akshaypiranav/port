@@ -7,7 +7,7 @@ const Experience = () => {
     <div className="col-lg-4 col-md-6 col-sm-12 mb-5 d-flex justify-content-center">
     <Link href="https://quantanics.in/" target="_blank">
 
-      <div className="card bgg" style={{ width: "18rem" }} data-aos="zoom-in-right">
+      <div className="card bgg" style={{ width: "18rem" }} data-aos="fade-up">
         <img src="../static/quantantics.png" className="card-img-top" alt="..." />
         <div className="card-body text-center bg">
           <h4 className="card-title ">Quantantics Tech Serv</h4>
@@ -23,7 +23,7 @@ const Experience = () => {
     <div className="col-lg-4 col-md-6 col-sm-12 mb-5 d-flex justify-content-center">
     <Link href="https://phoenixsoftech.in/" target="_blank">
 
-      <div className="card bgg" style={{ width: "18rem" }} data-aos="zoom-out">
+      <div className="card bgg" style={{ width: "18rem" }} data-aos="fade-up">
         <img src="../static/phonix.avif" className="card-img-top" alt="..." />
         <div className="card-body text-center bg">
           <h4 className="card-title ">Phoenix Softech Private</h4>
@@ -41,7 +41,7 @@ const Experience = () => {
     <div className="col-lg-4 col-md-6 col-sm-12 mb-5 d-flex justify-content-center">
     <Link href="https://quarksek.com/" target="_blank">
 
-      <div className="card bgg" style={{ width: "18rem" }} data-aos="zoom-in-left">
+      <div className="card bgg" style={{ width: "18rem" }} data-aos="fade-up">
         <img src="../static/qsek.jpg" className="card-img-top" alt="..." />
         
         <div className="card-body text-center bg">
