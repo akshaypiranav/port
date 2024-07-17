@@ -4,7 +4,7 @@ const Services = () => {
     <div className="container mt-5">
         <h1 className="text-center text display-4 fw-bold mb-4" data-aos="fade-up">SERVICES & PRICING</h1>
     <div className="row">
-    <div className="col-lg-4 col-md-6 col-sm-12 mb-5 d-flex justify-content-center" data-aos="zoom-in-right">
+    <div className="col-lg-4 col-md-6 col-sm-12 mb-5 d-flex justify-content-center" data-aos="fade-up">
 
       <div className="card bgg" >
         
@@ -22,7 +22,7 @@ const Services = () => {
       </div>
       </div>
 
-    <div className="col-lg-4 col-md-6 col-sm-12 mb-5 d-flex justify-content-center" data-aos="zoom-in-left">
+    <div className="col-lg-4 col-md-6 col-sm-12 mb-5 d-flex justify-content-center" data-aos="fade-up">
 
       <div className="card bgg" >
         
@@ -40,7 +40,7 @@ const Services = () => {
       </div>
       </div>
 
-    <div className="col-lg-4 col-md-6 col-sm-12 mb-5 d-flex justify-content-center" data-aos="zoom-in-left">
+    <div className="col-lg-4 col-md-6 col-sm-12 mb-5 d-flex justify-content-center" data-aos="fade-up">
 
       <div className="card bgg" >
         
@@ -58,7 +58,7 @@ const Services = () => {
       </div>
       </div>
 
-    <div className="col-lg-4 col-md-6 col-sm-12 mb-5 d-flex justify-content-center" data-aos="zoom-in-right">
+    <div className="col-lg-4 col-md-6 col-sm-12 mb-5 d-flex justify-content-center" data-aos="fade-up">
 
       <div className="card bgg" >
         
@@ -75,7 +75,7 @@ const Services = () => {
         </div>
       </div>
       </div>
-    <div className="col-lg-4 col-md-6 col-sm-12 mb-5 d-flex justify-content-center" data-aos="zoom-in">
+    <div className="col-lg-4 col-md-6 col-sm-12 mb-5 d-flex justify-content-center" data-aos="fade-up">
 
       <div className="card bgg" >
         
@@ -93,7 +93,7 @@ const Services = () => {
       </div>
       </div>
 
-    <div className="col-lg-4 col-md-6 col-sm-12 mb-5 d-flex justify-content-center" data-aos="zoom-in-left">
+    <div className="col-lg-4 col-md-6 col-sm-12 mb-5 d-flex justify-content-center" data-aos="fade-up">
 
       <div className="card bgg" >
         
