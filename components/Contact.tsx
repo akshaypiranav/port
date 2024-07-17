@@ -1,7 +1,7 @@
 import Link  from "next/link"
 const Contact = () => {
   return (
-    <div className="container my-5" id="contact" data-aos="flip-up">
+    <div className="container my-5" id="contact" data-aos="fade-up">
         <h1 className="text-center text fw-bold">☎Get In Touch</h1>
         <h5 className="text-center">Vasantham Nagar, Sattur, Virudhunagar,</h5>
         <h6 className="text-center">TamilNadu.</h6>
