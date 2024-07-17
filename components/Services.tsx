@@ -26,7 +26,7 @@ const Services = () => {
 
       <div className="card bgg" >
         
-        <div className="card-body text-center bg ttt" data-aos="zoom-in">
+        <div className="card-body text-center bg ttt" >
           <h4 className="card-title text">Backend Development</h4>
           <h6 className="card-title ">Server Side</h6>
           <p className="card-text ttt">
