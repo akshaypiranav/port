@@ -108,3 +108,24 @@ textarea {
 .shad{
 box-shadow: 0px 0px 10px rgba(255,255,255,0.4);
 }
+
+.typing {
+  overflow: hidden; /* Ensures the content is hidden until revealed */
+  border-right: 0.15em solid orange; /* Cursor */
+  white-space: nowrap; /* Prevents text from wrapping */
+  margin: 0 auto; /* Center the text */
+  letter-spacing: 0.1em; /* Adjust space between characters */
+  animation: typing 2s steps(30, end), blink-caret 0.5s step-end infinite;
+}
+
+/* The typing effect */
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+/* The cursor blink effect */
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: orange; }
+}
