@@ -29,7 +29,7 @@ const Home = () => {
         </div>
         <div className="col-md-6 col-sm-12 mt-4 text-center">
           <h1 className="display-1 text fw-bold mt-2">I'M AKSHAY PIRANAV</h1>
-          <h1 className="fw-bold typing">FULL-STACK DEVELOPER</h1>
+          <h3 className="fw-bold typing">FULL-STACK DEVELOPER</h3>
           <h6 className="fw-bold my-4">💎 NodeJS / Python 💎</h6>
           <div className="row justify-content-center ">
             
