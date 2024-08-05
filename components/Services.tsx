@@ -104,7 +104,7 @@ const Services = () => {
           Software testing involves evaluating and verifying that a software application meets specified requirements and functions correctly. It includes identifying bugs, ensuring performance, and validating that the software is user-friendly and secure. Testing methods include manual testing, automated testing, unit testing, integration testing, and user acceptance testing (UAT).
           </p>
           <Link href="/#contact">
-          <p className="card-text text-center fw-bold shad border p-2 rounded">RS.1000 - RS.2000</p>
+          <p className="card-text text-center fw-bold shad border p-2 rounded">RS.3000 - RS.4000</p>
           </Link>
 
         </div>
