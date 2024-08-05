@@ -34,7 +34,7 @@ const Services = () => {
           </p>
           <Link href="/#contact">
 
-          <p className="card-text text-center fw-bold shad border p-2 rounded">RS.4000 - RS.8000</p>
+          <p className="card-text text-center fw-bold shad border p-2 rounded">RS.6000 - RS.15000</p>
 </Link>
         </div>
       </div>
@@ -52,7 +52,7 @@ const Services = () => {
           </p>
           <Link href="/#contact">
 
-          <p className="card-text text-center fw-bold shad border p-2 rounded">RS.8000 - RS.13000</p>
+          <p className="card-text text-center fw-bold shad border p-2 rounded">RS.8000 - RS.15000</p>
 </Link>
         </div>
       </div>
