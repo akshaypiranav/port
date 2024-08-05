@@ -16,7 +16,7 @@ const Services = () => {
           </p>
           <Link href="/#contact">
 
-          <p className="card-text text-center fw-bold shad border p-2 rounded">RS.1000 - RS.6000</p>
+          <p className="card-text text-center fw-bold shad border p-2 rounded">RS.2000 - RS.6000</p>
           </Link>
         </div>
       </div>
@@ -34,7 +34,7 @@ const Services = () => {
           </p>
           <Link href="/#contact">
 
-          <p className="card-text text-center fw-bold shad border p-2 rounded">RS.2000 - RS.6000</p>
+          <p className="card-text text-center fw-bold shad border p-2 rounded">RS.4000 - RS.8000</p>
 </Link>
         </div>
       </div>
@@ -52,7 +52,7 @@ const Services = () => {
           </p>
           <Link href="/#contact">
 
-          <p className="card-text text-center fw-bold shad border p-2 rounded">RS.5000 - RS.13000</p>
+          <p className="card-text text-center fw-bold shad border p-2 rounded">RS.8000 - RS.13000</p>
 </Link>
         </div>
       </div>
@@ -87,7 +87,7 @@ const Services = () => {
           </p>
           <Link href="/#contact">
 
-          <p className="card-text text-center fw-bold shad border p-2 rounded">RS.2000 - RS.13000</p>
+          <p className="card-text text-center fw-bold shad border p-2 rounded">RS.12000 - RS.24000</p>
             </Link>
         </div>
       </div>
