@@ -44,7 +44,7 @@ const Projects = () => {
   }
 
   if (error) {
-    return <div className='display-4 text-center fw-bold'>Error: {error}</div>;
+    return <div className='display-4 text-center fw-bold'>Firebase Access Denied !!</div>;
   }
 
   if (projects.length === 0) {
