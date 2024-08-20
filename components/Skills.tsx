@@ -66,13 +66,14 @@ const Skills = () => {
         <div className="row justify-content-center mb-5 border border-secondary roun p-5" data-aos="fade-up">
         <h2 className="  text-center mb-5">♾️Devops</h2>
 
+
+        <div className="col-md-3 col-lg-3 col-md-3 col-xs-3 text-center mb-4">
+                <img src="../static/git.png" alt="" width={110} height={110} />
+        </div>
         <div className="col-md-3 col-lg-3 col-md-3 col-xs-3 text-center mb-4">
                 <img src="../static/docker.png" alt="" width={110} height={110} />
         </div>
         <div className="col-md-3 col-lg-3 col-md-3 col-xs-3 text-center mb-4">
-                <img src="../static/git.png" alt="" width={110} height={110} />
-        </div>
-                <div className="col-md-3 col-lg-3 col-md-3 col-xs-3 text-center mb-4">
                 <img src="../static/github2.png" alt="" width={110} height={110} />
         </div>
         </div>
