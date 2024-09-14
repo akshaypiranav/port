@@ -76,12 +76,7 @@ const Navbar = () => {
  Skills
         </Link>
         </li>
-        <li className="nav-item">
-          <Link className="nav-link "  href="/pricing"><i className="fa fa-credit-card-alt me-1" aria-hidden="true"></i>
 
- Pricing
-        </Link>
-        </li>
         <li className="nav-item">
           <Link className="nav-link " href="/#contact"><i className="fa fa-address-card me-1" aria-hidden="true"></i>
  Contact
