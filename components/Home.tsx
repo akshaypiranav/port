@@ -34,7 +34,7 @@ const Home = () => {
       } else {
         setTimeout(() => {
           setIsTyping(false);
-        }, 1000); 
+        }, 3000); 
       }
     } else {
       if (text.length > 0) {
