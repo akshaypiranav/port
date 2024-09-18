@@ -20,7 +20,7 @@ const Home = () => {
   const titles = [
     "FULL-STACK DEVELOPER",
     "PYTHON DEVELOPER",
-    "SOFTWARE ENGINEER - INTERN",
+    "SDE INTERN @QSEK",
     "NODEJS DEVELOPER"
   ];
 
