@@ -39,7 +39,7 @@ const Acheivements = () => {
             <div className="col-md-6 col-sm-6 col-xs-6 col-lg-6 mt-4">
                 <h4 className=" text">Quarksek Technologies, Bengaluru.</h4>
                 <h5 className="">Event : Hackathon</h5>
-                <h5 className="">Secured 2nd Prize with Cash Prize RS.4000 and also got Internship for 8 Months</h5>
+                <h5 className="">Secured 2nd Prize with Cash Prize RS.4000 and also got Internship for 13 Months and Job Offer</h5>
                 <h5 className="">Project Name : Automated Pen Testing </h5>
 
             </div>
