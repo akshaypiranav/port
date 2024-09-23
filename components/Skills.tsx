@@ -10,9 +10,7 @@ const Skills = () => {
             <div className="col-md-3 col-lg-3 col-md-3 col-xs-3 text-center mb-4">
                 <img src="../static/react.png" alt="" width={100} height={100} />
             </div>
-            <div className="col-md-3 col-lg-3 col-md-3 col-xs-3 text-center mb-4">
-                <img src="../static/vue.png" alt="" width={100} height={100} />
-            </div>
+
             <div className="col-md-3 col-lg-3 col-md-3 col-xs-3 text-center mb-4">
                 <img src="../static/bootstrap.png" alt="" width={100} height={100} />
             </div>
