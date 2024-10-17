@@ -58,6 +58,8 @@ const Home = () => {
             alt="Akshay"
             width="400"
             height="400"
+            style={{boxShadow : "0px 0px 80px rgba(255,255,255,0.3)"}}
+
           />
           <h5 className="text-center mt-3 text-danger">⚡engineer.exe⚡</h5>
         </div>
