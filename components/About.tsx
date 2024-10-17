@@ -19,7 +19,7 @@ const About = () => {
                     alt="developer"
                     width="400"
                     height="400"
-                    style={{boxShadow : "0px 0px 80px rgba(255,255,255,0.3)"}}
+                    style={{boxShadow : "0px 0px 80px rgba(0,0,0,0.3)"}}
                 />
                 </div>
             </div>
