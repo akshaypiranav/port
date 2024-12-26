@@ -5,7 +5,7 @@ interface Project {
   projectName: string;
   githubLink: string;
   stackUsed: string;
-  imageLink: string; // Add imageLink property,
+  imageLink: string; 
   error : string;
 }
 
@@ -17,7 +17,7 @@ const Projects = () => {
   useEffect(() => {
     const fetchProjects = async () => {
       try {
-        const response = await fetch('https://portfolio-a82ba-default-rtdb.firebaseio.com/.json');
+        const response = await fetch('https://project-c8385-default-rtdb.firebaseio.com/.json');
         if (!response.ok) {
           throw new Error('Network response was not ok');
         }
