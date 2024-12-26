@@ -75,7 +75,7 @@ const Home = () => {
               </Link>
             </div>
             <div className="col-1">
-              <Link href="https://www.instagram.com/akshaypiranav/" target="_blank" >
+              <Link href="https://www.instagram.com/akshaypiranavb/" target="_blank" >
                 <i className="fa fa-instagram" aria-hidden="true"></i>
               </Link>
             </div>
