@@ -79,7 +79,8 @@ li a:hover{
 }
 
 .roun{
-  border-radius: 50px !important;
+  border-radius: 30px !important;
+  background-color: #000000 !important;
 }
 
 input ::placeholder{

@@ -4,7 +4,7 @@ const Skills = () => {
     <div className="container mt-5" id="skills">
         <h1 className="text text-center display-4 fw-bold">Professional Skills</h1>
 
-        <div className="row justify-content-center mt-5 mb-5 border border-secondary roun p-5 bg-dark" data-aos="fade-up">
+        <div className="row justify-content-center mt-5 mb-5  roun p-5 bg-dark" data-aos="fade-up">
         <h2 className="  text-center mb-5">🎨Frontend</h2>
 
             <div className="col-md-3 col-lg-3 col-md-3 col-xs-3 text-center mb-4">
@@ -21,7 +21,7 @@ const Skills = () => {
             
         </div>
     
-        <div className="row justify-content-center  mb-5 border border-secondary roun p-5" data-aos="fade-up">
+        <div className="row justify-content-center  mb-5 bg-dark roun p-5" data-aos="fade-up">
         <h2 className=" text-center mb-5 ">🗄️Backend</h2>
 
             
@@ -43,7 +43,7 @@ const Skills = () => {
 
         </div>
     
-        <div className="row justify-content-center mb-5 border border-secondary roun p-5" data-aos="fade-up">
+        <div className="row justify-content-center mb-5 bg-dark roun p-5" data-aos="fade-up">
         <h2 className="  text-center mb-5">🛢️Database</h2>
 
             <div className="col-md-3 col-lg-3 col-md-3 col-xs-3 text-center mb-4">
@@ -61,7 +61,7 @@ const Skills = () => {
 
         </div>
     
-        <div className="row justify-content-center mb-5 border border-secondary roun p-5" data-aos="fade-up">
+        <div className="row justify-content-center mb-5 bg-dark roun p-5" data-aos="fade-up">
         <h2 className="  text-center mb-5">♾️Devops</h2>
 
 
@@ -76,7 +76,7 @@ const Skills = () => {
         </div>
         </div>
     
-        <div className="row justify-content-center mb-5 border border-secondary roun p-5" data-aos="fade-up">
+        <div className="row justify-content-center mb-5 bg-dark roun p-5" data-aos="fade-up">
         <h2 className="  text-center mb-5">🔎Testing</h2>
 
         <div className="col-md-3 col-lg-3 col-md-3 col-xs-3 text-center mb-4">
