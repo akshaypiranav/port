@@ -17,7 +17,7 @@ const Projects = () => {
   useEffect(() => {
     const fetchProjects = async () => {
       try {
-        const response = await fetch('https://portt-c5edc-default-rtdb.firebaseio.com/.json');
+        const response = await fetch('https://portfolio-dbdb1-default-rtdb.europe-west1.firebasedatabase.app/.json');
         if (!response.ok) {
           throw new Error('Network response was not ok');
         }
