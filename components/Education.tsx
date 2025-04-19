@@ -23,7 +23,7 @@ const Education = () => {
             </div>
             <div className="col-md-6 col-sm-6 col-xs-6 col-lg-6 mt-4">
                 <h4 className=" text">Kamaraj College Of Engineering & Technology, <br />Near Virudhunagar, Tamilnadu.</h4>
-                <h5 className="">CGPA <strong>- 8.66</strong> (Upto 6th Sem)</h5>
+                <h5 className="">CGPA <strong>- 8.58</strong> (Upto 7th Sem)</h5>
                 <h5 className="">GPA  <strong className="ms-2">- 9.17</strong>(Highest)</h5>
             </div>
         </div>

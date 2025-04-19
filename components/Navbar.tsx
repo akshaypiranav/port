@@ -67,6 +67,12 @@ const Navbar = () => {
         </Link>
         </li>
         <li className="nav-item">
+          <Link className="nav-link " href="/pricing"><i className="fa fa-money me-1" aria-hidden="true"></i>
+ Pricing
+        </Link>
+
+        </li>
+        <li className="nav-item">
           <Link className="nav-link " href="/#experience"><i className="fa fa-briefcase me-1" aria-hidden="true"></i>
  Experience
         </Link>
