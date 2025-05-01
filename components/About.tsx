@@ -15,7 +15,7 @@ const About = () => {
             <div className="col-md-6 col-xs-6 col-sm-6 col-lg-6">
                 <div className="text-center">
                 <img
-                    src="../static/team.jpg"
+                    src="../static/akshay.jpg"
                     className=" dev img-fluid mx-auto d-block"
                     alt="developer"
                     width="400"
