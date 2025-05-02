@@ -19,7 +19,7 @@ const Home = () => {
   const [currentTitleIndex, setCurrentTitleIndex] = useState(0); 
   const titles = [
     "PYTHON DEVELOPER",
-    "EX-SDE INTERN @QSEK",
+    "EX-SDE INTERN AT QSEK",
     "CYBER SECURITY ENGINEER",
     "PENETRATION TESTER"
   ];
