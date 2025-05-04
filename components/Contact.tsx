@@ -36,7 +36,7 @@ export default function Contact() {
   };
 
   return (
-    <div className="container col-xs-12 col-md-8 col-lg-6" data-aos="fade-up">
+    <div className="container col-xs-12 col-md-8 col-lg-6 " id="contact" data-aos="fade-up">
       <h1 className="display-5 text-center fw-bold mb-4 text">Mail Me :)</h1>
 
       <form className="row g-3" onSubmit={handleSubmit}>
