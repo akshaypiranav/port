@@ -41,7 +41,7 @@ export default function Contact() {
 
       <form className="row g-3" onSubmit={handleSubmit}>
         <div className="col-md-6">
-          <label htmlFor="fullname" className="form-label">Full Name</label>
+          <label htmlFor="fullname" className="form-label">Full Name ☺️</label>
           <input
             type="text"
             name="fullname"
@@ -55,7 +55,7 @@ export default function Contact() {
         </div>
 
         <div className="col-md-6">
-          <label htmlFor="mobile" className="form-label">Mobile Number</label>
+          <label htmlFor="mobile" className="form-label">Mobile Number 📱</label>
           <input
             type="text"
             name="mobile"
@@ -69,7 +69,7 @@ export default function Contact() {
         </div>
 
         <div className="col-12">
-          <label htmlFor="message" className="form-label">Message</label>
+          <label htmlFor="message" className="form-label">Message 💬</label>
           <textarea
             name="message"
             className="form-control"
