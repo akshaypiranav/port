@@ -65,7 +65,9 @@ const Home = () => {
         </div>
         <div className="col-md-6 col-sm-12 mt-4 text-center">
           <h1 className="display-1 text fw-bold mt-2">I'M AKSHAY PIRANAV</h1>
-          <h3 className="fw-bold typing">{text} </h3>
+          <h3 className="fw-bold typing" style={{ minHeight: '20px' }}>
+  {text || '\u00A0'}
+</h3>
           <h6 className="fw-bold my-4">💎 Development / Security 💎</h6>
           <div className="row justify-content-center">
             
