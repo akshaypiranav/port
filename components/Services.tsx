@@ -185,8 +185,7 @@ const Services = () => {
               <h6 className="card-title">Multi Millet Based Company</h6>
               <p className="card-text ttt">
                 "Working with the team was an amazing experience. They developed a
-                beautiful and user-friendly website for our millet-based product
-                line. It’s helped us reach more customers online."
+                beautiful and user-friendly website for our millet-based product. It’s helped us reach more customers."
               </p>
               <p className="card-text fw-bold shad border p-2 rounded">
                 — Tamil Selvi, Owner
