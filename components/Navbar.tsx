@@ -89,7 +89,7 @@ const Navbar = () => {
         </Link>
         </li>
         <li className="nav-item">
-          <Link className=" nav-link " target="_blank" href="https://github.com/akshaypiranav"><i className="fa fa-github me-1" aria-hidden="true"></i>
+          <Link className=" nav-link " target="_blank" href="https://github.com/sanloop-akshay"><i className="fa fa-github me-1" aria-hidden="true"></i>
  GitHub
         </Link>
         </li>
